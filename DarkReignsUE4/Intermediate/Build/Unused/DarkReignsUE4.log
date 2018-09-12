@@ -1,0 +1,26 @@
+﻿  Performing full C++ include scan (building a new target)
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for DarkReignsUE4Editor (no existing makefile)
+  Using Visual Studio 2015 14.0 toolchain (C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Building UnrealHeaderTool...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Using Visual Studio 2015 14.0 toolchain (C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Target is up to date
+  Total build time: 2.59 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Parsing headers for DarkReignsUE4Editor
+    Running UnrealHeaderTool "C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\DarkReignsUE4.uproject" "C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\DarkReignsUE4Editor\Development\DarkReignsUE4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+  Reflection code generated for DarkReignsUE4Editor in 38.0375055 seconds
+  Building 8 actions with 6 processes...
+    [1/8] DarkReignsUE4.init.gen.cpp
+    [2/8] DarkReignsUE4.cpp
+    [3/8] DarkReignsUE4GameMode.gen.cpp
+    [4/8] DarkReignsUE4GameMode.cpp
+    [5/8] DarkReignsUE4Character.gen.cpp
+    [6/8] DarkReignsUE4Character.cpp
+    [7/8] UE4Editor-DarkReignsUE4.lib
+       Creating library C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\UE4Editor-DarkReignsUE4.lib and object C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\UE4Editor-DarkReignsUE4.exp
+    [8/8] UE4Editor-DarkReignsUE4.dll
+       Creating library C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\UE4Editor-DarkReignsUE4.suppressed.lib and object C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\UE4Editor-DarkReignsUE4.suppressed.exp
+  Deploying DarkReignsUE4Editor Win64 Development...
+  Total build time: 106.30 seconds (Parallel executor: 5.66 seconds)

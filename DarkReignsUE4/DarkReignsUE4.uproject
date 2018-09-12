@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C946CCA3-456F-15CA-8344-278D8266FD88}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DarkReignsUE4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}

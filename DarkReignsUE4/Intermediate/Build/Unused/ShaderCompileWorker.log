@@ -1,0 +1,8 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Using Visual Studio 2015 14.0 toolchain (C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC) and Windows 8.1 SDK (C:\Program Files (x86)\Windows Kits\8.1).
+  Target is up to date
+  Copying C:\Users\mweho\OneDrive\Documents\GitHub\UnrealEngine\Engine\Binaries\Win64\ShaderCompileWorker.exe to C:\Users\mweho\OneDrive\Documents\GitHub\UnrealEngine\Engine\Binaries\Win64\XGEControlWorker.exe
+          1 file(s) copied.
+  Deploying ShaderCompileWorker Win64 Development...
+  Total build time: 3.92 seconds (NoActionsToExecute executor: 0.00 seconds)

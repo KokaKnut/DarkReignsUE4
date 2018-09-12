@@ -1,0 +1,3 @@
+C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Source\DarkReignsUE4\DarkReignsUE4.Build.cs
+C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Source\DarkReignsUE4.Target.cs
+C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Source\DarkReignsUE4Editor.Target.cs
