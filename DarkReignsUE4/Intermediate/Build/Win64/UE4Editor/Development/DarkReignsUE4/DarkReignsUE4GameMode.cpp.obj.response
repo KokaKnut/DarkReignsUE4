@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Inc\DarkReignsUE4"
-/I "C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Source"
-/I "C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Source\DarkReignsUE4"
+/I C:\Users\mweho\OneDrive\Documents\GitHub\DarkReignsUE4\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Inc\DarkReignsUE4
+/I C:\Users\mweho\OneDrive\Documents\GitHub\DarkReignsUE4\DarkReignsUE4\Source
+/I C:\Users\mweho\OneDrive\Documents\GitHub\DarkReignsUE4\DarkReignsUE4\Source\DarkReignsUE4
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -418,9 +418,9 @@
 /FI"C:\Users\mweho\OneDrive\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Users\mweho\OneDrive\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Users\mweho\OneDrive\Documents\GitHub\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Source\DarkReignsUE4\DarkReignsUE4GameMode.cpp"
-/FI"C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\Definitions.DarkReignsUE4.h"
-/Fo"C:\Users\mweho\OneDrive\Documents\Unreal Projects\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\DarkReignsUE4GameMode.cpp.obj"
+"C:\Users\mweho\OneDrive\Documents\GitHub\DarkReignsUE4\DarkReignsUE4\Source\DarkReignsUE4\DarkReignsUE4GameMode.cpp"
+/FI"C:\Users\mweho\OneDrive\Documents\GitHub\DarkReignsUE4\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\Definitions.DarkReignsUE4.h"
+/Fo"C:\Users\mweho\OneDrive\Documents\GitHub\DarkReignsUE4\DarkReignsUE4\Intermediate\Build\Win64\UE4Editor\Development\DarkReignsUE4\DarkReignsUE4GameMode.cpp.obj"
 /TP
 /GR-
 /W4
